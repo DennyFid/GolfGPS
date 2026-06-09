@@ -1,0 +1,8 @@
+Run the app in Expo Web/Android emulator
+cd c:\GIT\GolfGPS
+npm install
+Start the app
+    For Expo Web (recursively simulating both devices side-by-side):
+        npm run web
+    For Android Emulator (or running directly on Pixel 6 / Wear OS emulator):
+        npm run android
